@@ -1,0 +1,406 @@
+
+The route of car 1: 0 1 2 3 4
+The route of car 2: 0 5 6 7 8 9 10 11 12 13
+The route of car 3: 0 14 15 16 17 18 19
+The route of car 4: 0 20 21 22
+The route of car 5: 0 23 24 25 26
+The route of car 6: 0 27 28 29 30
+Tong do dai hien tai: 168.46600
+Thuc hien chon lang gieng tot nhat
+Step 0
+
+The route of car 1: 0 1 2 3 4
+The route of car 2: 0 5 6 7 8 9 10 11 12 13
+The route of car 3: 0 14 15 16 17 18 19
+The route of car 4: 0 20 21 22
+The route of car 5: 0 23 24 25 26
+The route of car 6: 0 30 28 29 27
+Tong do dai cua lang gieng tot nhat: 167.51201
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 167.51201
+Thuc hien chon lang gieng tot nhat
+
+The route of car 1: 0 1 2 3 4
+The route of car 2: 0 5 6 7 8 9 10 11 12 13
+The route of car 3: 0 14 15 16 17 18 19
+The route of car 4: 0 20 21 22
+The route of car 5: 0 23 24 26
+The route of car 6: 0 25 30 28 29 27
+Tong do dai cua lang gieng tot nhat: 162.26601
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 162.26601
+Thuc hien chon lang gieng tot nhat
+
+The route of car 1: 0 1 2 3 4
+The route of car 2: 0 5 6 7 8 9 10 11 12 13
+The route of car 3: 0 14 15 16 17 18 19
+The route of car 4: 0 20 21 22
+The route of car 5: 0 24 26
+The route of car 6: 0 25 23 30 28 29 27
+Tong do dai cua lang gieng tot nhat: 137.96199
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 137.96199
+Thuc hien chon lang gieng tot nhat
+
+The route of car 1: 0 1 2 3 4
+The route of car 2: 0 5 6 7 8 9 10 11 12 13
+The route of car 3: 0 14 15 16 17 18 19
+The route of car 4: 0 20 21 22
+The route of car 5: 0 30 24 26
+The route of car 6: 0 25 23 28 29 27
+Tong do dai cua lang gieng tot nhat: 127.72700
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 127.72700
+Thuc hien chon lang gieng tot nhat
+
+The route of car 1: 0 1 2 3 4
+The route of car 2: 0 5 6 7 8 9 10 11 12 13
+The route of car 3: 0 14 15 17 18 19
+The route of car 4: 0 20 21 22
+The route of car 5: 0 16 30 24 26
+The route of car 6: 0 25 23 28 29 27
+Tong do dai cua lang gieng tot nhat: 125.36300
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 125.36300
+Thuc hien chon lang gieng tot nhat
+Step 5
+
+The route of car 1: 0 1 2 3 4
+The route of car 2: 0 5 6 7 8 9 10 11 12 13
+The route of car 3: 0 14 15 17 18 19
+The route of car 4: 0 30 20 21 22
+The route of car 5: 0 16 24 26
+The route of car 6: 0 25 23 28 29 27
+Tong do dai cua lang gieng tot nhat: 117.25800
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 117.25800
+Thuc hien chon lang gieng tot nhat
+
+The route of car 1: 0 1 2 3 4
+The route of car 2: 0 5 6 7 8 9 10 11 12 13
+The route of car 3: 0 30 14 15 17 18 19
+The route of car 4: 0 20 21 22
+The route of car 5: 0 16 24 26
+The route of car 6: 0 25 23 28 29 27
+Tong do dai cua lang gieng tot nhat: 108.79100
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 108.79100
+Thuc hien chon lang gieng tot nhat
+
+The route of car 1: 0 1 2 3 4
+The route of car 2: 0 5 6 8 9 10 11 12 13
+The route of car 3: 0 7 30 14 15 17 18 19
+The route of car 4: 0 20 21 22
+The route of car 5: 0 16 24 26
+The route of car 6: 0 25 23 28 29 27
+Tong do dai cua lang gieng tot nhat: 106.13900
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 106.13900
+Thuc hien chon lang gieng tot nhat
+
+The route of car 1: 0 1 2 3 4
+The route of car 2: 0 5 6 8 9 10 11 12 13
+The route of car 3: 0 7 20 14 15 17 18 19
+The route of car 4: 0 30 21 22
+The route of car 5: 0 16 24 26
+The route of car 6: 0 25 23 28 29 27
+Tong do dai cua lang gieng tot nhat: 98.03400
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 98.03400
+Thuc hien chon lang gieng tot nhat
+
+The route of car 1: 0 1 2 30 3 4
+The route of car 2: 0 5 6 8 9 10 11 12 13
+The route of car 3: 0 7 20 14 15 17 18 19
+The route of car 4: 0 21 22
+The route of car 5: 0 16 24 26
+The route of car 6: 0 25 23 28 29 27
+Tong do dai cua lang gieng tot nhat: 95.74100
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 95.74100
+Thuc hien chon lang gieng tot nhat
+Step 10
+
+The route of car 1: 0 1 2 21 30 3 4
+The route of car 2: 0 5 6 8 9 10 11 12 13
+The route of car 3: 0 7 20 14 15 17 18 19
+The route of car 4: 0 22
+The route of car 5: 0 16 24 26
+The route of car 6: 0 25 23 28 29 27
+Tong do dai cua lang gieng tot nhat: 90.09500
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 90.09500
+Thuc hien chon lang gieng tot nhat
+
+The route of car 1: 0 1 2 21 22 30 3 4
+The route of car 2: 0 5 6 8 9 10 11 12 13
+The route of car 3: 0 7 20 14 15 17 18 19
+The route of car 5: 0 16 24 26
+The route of car 6: 0 25 23 28 29 27
+Tong do dai cua lang gieng tot nhat: 69.97099
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 69.97099
+Thuc hien chon lang gieng tot nhat
+
+The route of car 1: 0 1 2 21 22 5 30 3 4
+The route of car 2: 0 6 8 9 10 11 12 13
+The route of car 3: 0 7 20 14 15 17 18 19
+The route of car 5: 0 16 24 26
+The route of car 6: 0 25 23 28 29 27
+Tong do dai cua lang gieng tot nhat: 65.34300
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 65.34300
+Thuc hien chon lang gieng tot nhat
+
+The route of car 1: 0 1 2 21 22 5 3 4
+The route of car 2: 0 30 6 8 9 10 11 12 13
+The route of car 3: 0 7 20 14 15 17 18 19
+The route of car 5: 0 16 24 26
+The route of car 6: 0 25 23 28 29 27
+Tong do dai cua lang gieng tot nhat: 61.18600
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 61.18600
+Thuc hien chon lang gieng tot nhat
+
+The route of car 1: 0 1 30 2 21 22 5 3 4
+The route of car 2: 0 6 8 9 10 11 12 13
+The route of car 3: 0 7 20 14 15 17 18 19
+The route of car 5: 0 16 24 26
+The route of car 6: 0 25 23 28 29 27
+Tong do dai cua lang gieng tot nhat: 50.45400
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 50.45400
+Thuc hien chon lang gieng tot nhat
+Step 15
+
+The route of car 1: 0 1 29 30 2 21 22 5 3 4
+The route of car 2: 0 6 8 9 10 11 12 13
+The route of car 3: 0 7 20 14 15 17 18 19
+The route of car 5: 0 16 24 26
+The route of car 6: 0 25 23 28 27
+Tong do dai cua lang gieng tot nhat: 46.19600
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 46.19600
+Thuc hien chon lang gieng tot nhat
+
+The route of car 1: 0 1 29 6 2 21 22 5 3 4
+The route of car 2: 0 30 8 9 10 11 12 13
+The route of car 3: 0 7 20 14 15 17 18 19
+The route of car 5: 0 16 24 26
+The route of car 6: 0 25 23 28 27
+Tong do dai cua lang gieng tot nhat: 42.03900
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 42.03900
+Thuc hien chon lang gieng tot nhat
+
+The route of car 1: 0 1 15 29 6 2 21 22 5 3 4
+The route of car 2: 0 30 8 9 10 11 12 13
+The route of car 3: 0 7 20 14 17 18 19
+The route of car 5: 0 16 24 26
+The route of car 6: 0 25 23 28 27
+Tong do dai cua lang gieng tot nhat: 41.60500
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 41.60500
+Thuc hien chon lang gieng tot nhat
+
+The route of car 1: 0 27 1 15 29 6 2 21 22 5 3 4
+The route of car 2: 0 30 8 9 10 11 12 13
+The route of car 3: 0 7 20 14 17 18 19
+The route of car 5: 0 16 24 26
+The route of car 6: 0 25 23 28
+Tong do dai cua lang gieng tot nhat: 41.15200
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 41.15200
+Thuc hien chon lang gieng tot nhat
+
+The route of car 1: 0 27 28 15 29 6 2 21 22 5 3 4
+The route of car 2: 0 30 8 9 10 11 12 13
+The route of car 3: 0 7 20 14 17 18 19
+The route of car 5: 0 16 24 26
+The route of car 6: 0 25 23 1
+Tong do dai cua lang gieng tot nhat: 38.68900
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Step 20
+
+The route of car 1: 0 27 28 15 29 6 2 21 22 5 3 4
+The route of car 2: 0 25 8 9 10 11 12 13
+The route of car 3: 0 7 20 14 17 18 19
+The route of car 5: 0 16 24 26
+The route of car 6: 0 30 23 1
+Tong do dai cua lang gieng tot nhat: 38.68900
+Lang gieng tim duoc tot hon
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Step 25
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Step 30
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Step 35
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Step 40
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Step 45
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Step 50
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Step 55
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Step 60
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Step 65
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Step 70
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Step 75
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Step 80
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Step 85
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Step 90
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Step 95
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
+Tong do dai hien tai: 38.68900
+Thuc hien chon lang gieng tot nhat
